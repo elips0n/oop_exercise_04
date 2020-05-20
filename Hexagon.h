@@ -1,7 +1,3 @@
-//
-// Created by yar on 31.03.2020.
-//
-
 #ifndef OOP_HEXAGON_H
 #define OOP_HEXAGON_H
 #include "Figure.h"
