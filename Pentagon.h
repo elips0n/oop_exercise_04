@@ -1,7 +1,3 @@
-//
-// Created by yar on 31.03.2020.
-//
-
 #ifndef OOP_PENTAGON_H
 #define OOP_PENTAGON_H
 #include "Figure.h"
